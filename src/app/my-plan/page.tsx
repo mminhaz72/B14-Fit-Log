@@ -71,8 +71,7 @@ export default function MyPlanPage() {
           {toast}
         </div>
       )}
-
-      <div className="max-w-4xl mx-auto">
+git
         <h1 className="text-3xl lg:text-4xl font-black uppercase tracking-wider mb-2">MY PLAN</h1>
         <p className="text-neutral-400 text-sm mb-8">Cap of five lifts for today. Finish them, then load more.</p>
 
