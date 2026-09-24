@@ -30,7 +30,7 @@ export default function Navbar() {
       </Link>
 
       {/* Nav Links */}
-      
+      <div className="flex items-center gap-6 text-sm font-semibold">
         <Link
           href="/"
           className={`transition-colors uppercase tracking-wider ${
