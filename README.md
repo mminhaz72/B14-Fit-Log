@@ -8,7 +8,7 @@ A dark, no-nonsense gym companion built with Next.js, TypeScript, and Tailwind C
 - **Smart "My Plan" & Saved Management**: Easily manage your daily fitness schedule and saved lists with LocalStorage persistence.
 - **Interactive Progress Tracking**: Mark workouts as "Done" and view real-time calculations for total exercises, duration, and calories burned.
 - **Sorting Options**: Sort your saved/planned workouts by duration, calories, or rating in the "My Plan" page.
-jjxgit
+- **Responsive Dark UI**: Sleek, modern dark-themed interface built precisely according to Figma specifications.
 
 ## 🛠️ Tech Stack
 - **Framework**: Next.js (App Router)

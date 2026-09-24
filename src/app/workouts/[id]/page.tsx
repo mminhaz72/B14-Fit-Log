@@ -86,7 +86,7 @@ export default function WorkoutDetailsPage() {
 
           {/* Right Side: Details & Specs */}
           <div>
-            <div className="flex gap-2 mb-3">
+            gfggit
               {workout.muscleGroups?.map((mg: string, i: number) => (
                 <span key={i} className="bg-neutral-900 border border-neutral-800 text-lime-400 text-xs px-3 py-1 rounded font-bold uppercase">
                   {mg}
