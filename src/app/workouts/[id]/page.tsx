@@ -73,7 +73,7 @@ export default function WorkoutDetailsPage() {
         </div>
       )}
 
-      <div className="max-w-6xl mx-auto">
+      
         <Link href="/" className="text-xs text-neutral-400 hover:text-lime-400 mb-6 inline-block uppercase tracking-wider">
           ← Back to Library
         </Link>
